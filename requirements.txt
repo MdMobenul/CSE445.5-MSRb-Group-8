@@ -1,3 +1,7 @@
+Data Visualization and Notebook support: 
+Jupyter Notebook (ipynb)
+
+
 Machine Learning Modeling libraries:
 
 scikit-learn for SVM, KNN, Random Forest, train_test_split, metrics, and PCA
@@ -8,8 +12,3 @@ Image Processing and Computer Vision:
 
 opencv-python For image reading, resizing, and grayscale conversion (cv2)
 Pillow for basic image operations (PIL)
-
-
-Data Visualization and Notebook support:
-
-Jupyter (ipynb)
