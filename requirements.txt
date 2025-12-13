@@ -1,6 +1,7 @@
 Data Visualization and Notebook support: 
 Jupyter Notebook (ipynb)
 
+Matpotlib for data visualization and plotting
 
 Machine Learning Modeling libraries:
 
